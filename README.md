@@ -11,29 +11,29 @@ All sessions are in the [North Study Lounge of Mudd Library](https://www.library
 Links to each workshop's GitHub repo are provided below (where available) within the daily schedule.  For more information on each workshop, please see the [PlanitPurple website](https://planitpurple.northwestern.edu/event/618033).
 
 ### Monday, Sept. 9, 20204
-- 9:30am - 11:00am (Mapping): Introduction to Spatial Data   
-- 11:00am - 12:30pm (R): [Introduction to Data Visualization](https://github.com/nuitrcs/IntroToDataVis)*
+- 9:30am - 11:00am (Mapping) : Introduction to Spatial Data   
+- 11:00am - 12:30pm (R) : [Introduction to Data Visualization](https://github.com/nuitrcs/IntroToDataVis)*
 - 1:30pm - 3:00pm (Python) : [Introduction to Data Visualization](https://github.com/nuitrcs/IntroToDataVis)*
 - 3:00pm - 4:00pm : Drop-in office hours
 
 \* These two workshops have nearly identical content, with the only difference being the coding language used for the demos at the end.  We recommend only attending one.
 
 ### Tuesday, Sept. 10, 2024
-- 9:30am - 11:00am (Mapping): Creating Web Maps with ArcOnline 
-- 11:00am - 12:30pm (R): [Creating Static Figures with R + ggplot2](https://github.com/nuitrcs/IntroToRggplot2)
+- 9:30am - 11:00am (Mapping) : Creating Web Maps with ArcOnline 
+- 11:00am - 12:30pm (R) : [Creating Static Figures with R + ggplot2](https://github.com/nuitrcs/IntroToRggplot2)
 - 1:30pm - 3:00pm (Python) : [Creating Static Figures with Python + matplotlib](https://github.com/nuitrcs/matplotlib_intro)
 - 3:00pm - 4:00pm : Drop-in office hours
 
 
 ### Wednesday, Sept. 11, 2024
-- 9:30am - 11:00am (Mapping):  Creating Static Maps with ArcPro and QGIS
-- 11:00am - 12:30pm (R): [Creating Interactive Figures with R + Shiny](https://github.com/nuitrcs/IntroToRShiny)
+- 9:30am - 11:00am (Mapping) :  Creating Static Maps with ArcPro and QGIS
+- 11:00am - 12:30pm (R) : [Creating Interactive Figures with R + Shiny](https://github.com/nuitrcs/IntroToRShiny)
 - 1:30pm - 3:00pm (Python) : Visualizing Data with Seaborn
 - 3:00pm - 4:00pm : Drop-in office hours
 
 ### Thursday, Sept. 12, 2024
-- 9:30am - 11:00am (Mapping):  Using Satellite Imagery To Detect Change with ArcPro
-- 11:00am - 12:30pm (R): [Creating Interactive Dashboards with R + Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
+- 9:30am - 11:00am (Mapping) :  Using Satellite Imagery To Detect Change with ArcPro
+- 11:00am - 12:30pm (R) : [Creating Interactive Dashboards with R + Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
 - 1:30pm - 3:00pm (Python) : [Creating Interactive Figures with Plotly + Python](https://github.com/nuitrcs/IntroToPlotly)
 - 3:00pm - 4:00pm : Drop-in office hours
 
