@@ -10,7 +10,7 @@ All sessions are in the [North Study Lounge of Mudd Library](https://www.library
 
 Links to each workshop's GitHub repo are provided below (where available) within the daily schedule.  For more information on each workshop, please see the [PlanitPurple website](https://planitpurple.northwestern.edu/event/618033).
 
-### Monday, Sept. 9, 20204
+### Monday, Sept. 9, 2024
 - 9:30am - 11:00am (Mapping) : Introduction to Spatial Data   
 - 11:00am - 12:30pm (R) : [Introduction to Data Visualization](https://github.com/nuitrcs/IntroToDataVis)*
 - 1:30pm - 3:00pm (Python) : [Introduction to Data Visualization](https://github.com/nuitrcs/IntroToDataVis)*
