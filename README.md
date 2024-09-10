@@ -39,7 +39,7 @@ Links to each workshop's GitHub repo are provided below (where available) within
 
 ### Friday, Sept. 13, 2024
 - 10:00am - 11:00am : [Exploring 3D Data with ParaView](https://github.com/nuitrcs/IntroToParaView)
-- 11:30am - 1:00pm : Making publication-ready figures in R
+- 11:30am - 1:00pm : [Making publication-ready figures in R](https://github.com/nuitrcs/R-publication-ready-plots)
 - 2:00pm - 3:00pm : [Data exploration using Glue](https://github.com/nuitrcs/IntroToGlue)
 - 3:00pm - 4:00pm : Drop-in office hours
 
