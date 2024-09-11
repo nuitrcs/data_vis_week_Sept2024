@@ -28,7 +28,7 @@ Links to each workshop's GitHub repo are provided below (where available) within
 ### Wednesday, Sept. 11, 2024
 - 9:30am - 11:00am (Mapping) :  Creating Static Maps with ArcPro and QGIS
 - 11:00am - 12:30pm (R) : [Creating Interactive Figures with R + Shiny](https://github.com/nuitrcs/IntroToRShiny)
-- 1:30pm - 3:00pm (Python) : Visualizing Data with Seaborn
+- 1:30pm - 3:00pm (Python) : [Visualizing Data with Seaborn](https://github.com/cauliyang/Visualizing-Data-with-Seaborn)
 - 3:00pm - 4:00pm : Drop-in office hours
 
 ### Thursday, Sept. 12, 2024
